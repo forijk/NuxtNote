@@ -1,2 +1,3 @@
 # NuxtNote
-Note about Nuxt,js
+
+## Note about Nuxt,js
